@@ -16,4 +16,6 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```
 ## Install COC Extensions
 
+```
 :CocInstall coc-json coc-tsserver coc-eslint coc-css coc-html coc-stylelint coc-tslint coc-markdownlint coc-svg coc-tailwindcss coc-yaml coc-copilot
+```
