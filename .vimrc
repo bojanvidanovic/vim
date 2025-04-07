@@ -1,5 +1,5 @@
 " Theme
-" colorscheme koehler
+colorscheme koehler
 
 " Set spacebar as <leader>
 nnoremap <SPACE> <Nop>
