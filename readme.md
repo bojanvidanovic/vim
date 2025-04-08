@@ -3,10 +3,9 @@
 ## Clone
 
 ```
-git clone git@github.com:bojanvidanovic/vim.git ./dotfiles
+git clone https://github.com/bojanvidanovic/vim.git ./.dotfiles/vim
 ln -s ~/.dotfiles/vim/.vimrc ~/.vimrc
 ```
-
 
 ## Install Plug
 
@@ -14,6 +13,7 @@ ln -s ~/.dotfiles/vim/.vimrc ~/.vimrc
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
+
 ## Install COC Extensions
 
 ```
