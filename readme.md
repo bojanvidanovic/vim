@@ -4,6 +4,11 @@
 
 ```
 git clone https://github.com/bojanvidanovic/vim.git ./.dotfiles/vim
+```
+
+## Create a symlink to the .vimrc
+
+```
 ln -s ~/.dotfiles/vim/.vimrc ~/.vimrc
 ```
 
